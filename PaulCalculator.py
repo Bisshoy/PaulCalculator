@@ -1,6 +1,6 @@
 #Hi Paul! Here's my calculator. It's not pretty. 
 
-#Here's all the operations. It's a simple calculator. So what.
+#Here are all the operations. It's a simple calculator. So what.
 #Sue me. 
 def multiply (x, y):
     return x*y
@@ -33,5 +33,5 @@ while True:
             print("The answer is: ", subtract(a, b))
         break
     else:
-        print("I think you fucked up somewhere, Paul.")
+        print("I think you messed up somewhere, Paul.")
 input("Press any key to exit.")
