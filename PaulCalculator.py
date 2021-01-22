@@ -34,4 +34,4 @@ while True:
         break
     else:
         print("I think you messed up somewhere, Paul.")
-input("Press any key to exit.")
+input("Press ENTER to exit.")
